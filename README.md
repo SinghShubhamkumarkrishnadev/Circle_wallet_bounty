@@ -16,15 +16,6 @@ In addition to the core functionalities, W3 Wallet includes the following innova
 3. **Social Login**: Integrates social logins for a seamless and familiar wallet creation and login experience.
 4. **NFTs**: Implements an NFT gallery feature that allows users to view, manage, and showcase their NFT collections directly within the wallet application.
 
-## Evaluation Criteria
-To ensure a comprehensive and fair assessment of our submission, we have implemented the features with the following considerations:
-- **Feature Implementation (60%)**: Ensuring effective implementation of core features and seamless integration of additional features.
-- **User Experience and Design (30%)**: Prioritizing intuitive design and user-friendly experience.
-- **Innovation and Creativity (10%)**: Demonstrating creativity and uniqueness in the implementation of additional features.
-
-## Hosted Version
-To experience W3 Wallet firsthand, please visit [W3 Wallet Hosted Version](your-wallet-url.com)
-
 ## Conclusion
 W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets. We believe that our submission meets and exceeds the requirements of the bounty challenge, and we look forward to your evaluation.
 
