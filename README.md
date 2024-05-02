@@ -1,7 +1,7 @@
 # W3 Wallet Bounty Submission
 
 ## Introduction
-Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed for the StackUp and Circle Developers bounty challenge. This comprehensive solution offers a range of core functionalities designed to streamline cryptocurrency management and transactions. With a focus on user experience and functionality, W3 Wallet aims to provide users with a secure and convenient platform for managing their digital assets.
+Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed by shubham(me) for the StackUp and Circle Developers. This comprehensive solution offers a range of core functionalities designed to streamline cryptocurrency management and transactions. With a focus on user experience and functionality, W3 Wallet aims to provide users with a secure and convenient platform for managing their digital assets.
 
 ## Core Functionalities
 1. **Wallet Creation**: Simplifies the process of creating a new wallet, guiding users through the setup securely and efficiently.
