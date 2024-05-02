@@ -5,8 +5,16 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
 
 ## Core Functionalities
 1. **Wallet Creation**: Simplifies the process of creating a new wallet, guiding users through the setup securely and efficiently.
-2. **Wallet Transfers**: Facilitates seamless token transfers between wallets, allowing users to send and receive tokens with ease.
-3. **Wallet Recovery**: Incorporates robust recovery functionality to ensure users can securely recover their wallet access if needed.
+                        The wallet creation feature simplifies the process of setting up a new wallet within the application. Users 
+                        can easily create a new wallet by following a few simple steps, ensuring a hassle-free onboarding experience.
+
+3. **Wallet Transfers**: Facilitates seamless token transfers between wallets, allowing users to send and receive tokens with ease.
+                         Facilitate smooth transfers of tokens between wallets. Users can easily transfer tokens (such as USDC) to 
+                         other wallets within the application, enabling fast and efficient transactions.
+   
+5. **Wallet Recovery**: Incorporates robust recovery functionality to ensure users can securely recover their wallet access if 
+                        needed. Incorporate PIN recovery functionality to allow users to recover their wallet access in case of loss 
+                        or forgetfulness. This ensures that users can regain access to their wallets securely and easily.
 
 
 1. **Notifications**: Real-time notifications keep users informed about important wallet activities, such as successful transactions and token receipts.  
