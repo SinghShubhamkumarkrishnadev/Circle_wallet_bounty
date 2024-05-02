@@ -37,5 +37,4 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
    <img src="./images/nftDisplay.png" alt="Notifications" width="800" height="500">
    
 ## Conclusion
-W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets. We believe that our submission meets and exceeds the requirements of the bounty challenge, and we look forward to your evaluation.
-
+W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets.
