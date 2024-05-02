@@ -16,10 +16,12 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
                         needed. Incorporate PIN recovery functionality to allow users to recover their wallet access in case of loss 
                         or forgetfulness. This ensures that users can regain access to their wallets securely and easily.
 
+## Additional Features
+ Beside these core features i have integrated 4 additional features like Notifications , Contacts , Social Logins , NFTs .
 
 1. **Notifications**: Real-time notifications keep users informed about important wallet activities, such as successful transactions and token receipts.  Implementing a notifications feature to alert users about key wallet activities, including successful transactions, received tokens, and more. Notifications enhance user engagement and keep users informed about important updates.
    
-     <img src="./images/notification.png" alt="Notifications" width="340" height="600">
+     <img src="./images/notification.png" alt="Notifications" width="540" height="400">
 
 3. **Contacts**: A personalized contacts feature allows users to save and manage frequently used wallet addresses, simplifying the process of sending tokens to trusted contacts. Integrate a personalized contacts feature to streamline transactions by allowing users to save and manage frequently used wallet addresses. Users can label contacts for easy identification and facilitate quick transactions.
    
