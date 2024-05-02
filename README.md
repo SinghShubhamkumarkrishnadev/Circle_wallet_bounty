@@ -13,12 +13,12 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
    ![Notifications](notification_image.png)
 
 2. **Contacts**: A personalized contacts feature allows users to save and manage frequently used wallet addresses, simplifying the process of sending tokens to trusted contacts.  
-   ![Contacts](contacts_image.png)
+   ![Contacts](./images/hommepage.png)
 
-3. **Social Login**: Integrates social logins for a seamless and familiar wallet creation and login experience.  
+4. **Social Login**: Integrates social logins for a seamless and familiar wallet creation and login experience.  
    ![Social Login](social_login_image.png)
 
-4. **NFTs**: Implements an NFT gallery feature that allows users to view, manage, and showcase their NFT collections directly within the wallet application.  
+5. **NFTs**: Implements an NFT gallery feature that allows users to view, manage, and showcase their NFT collections directly within the wallet application.  
    ![NFTs](nft_image.png)
 ## Conclusion
 W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets. We believe that our submission meets and exceeds the requirements of the bounty challenge, and we look forward to your evaluation.
