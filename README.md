@@ -13,7 +13,7 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
    ![Notifications](notification_image.png)
 
 2. **Contacts**: A personalized contacts feature allows users to save and manage frequently used wallet addresses, simplifying the process of sending tokens to trusted contacts.  
-   ![Contacts](./images/hommepage.png)
+   ![Contacts](./images/homepage.png)
 
 4. **Social Login**: Integrates social logins for a seamless and familiar wallet creation and login experience.  
    ![Social Login](social_login_image.png)
