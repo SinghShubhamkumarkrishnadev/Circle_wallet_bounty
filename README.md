@@ -23,8 +23,6 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
    
      <img src="./images/notification.png" alt="Notifications" width="550" height="450">
 
-     ### To view full code go to MainActivity.ky
-
 3. **Contacts**: A personalized contacts feature allows users to save and manage frequently used wallet addresses, simplifying the process of sending tokens to trusted contacts. Integrate a personalized contacts feature to streamline transactions by allowing users to save and manage frequently used wallet addresses. Users can label contacts for easy identification and facilitate quick transactions.
    
     <img src="./images/transcationsCode.png" alt="Notifications" width="550" height="450">
