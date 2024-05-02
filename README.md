@@ -34,7 +34,7 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
 
 6. **NFTs**: Implements an NFT gallery feature that allows users to view, manage, and showcase their NFT collections directly within the wallet application. Incorporate an NFT gallery feature that allows users to view, manage, and showcase their NFT collections directly within the wallet application. This feature caters to users interested in digital collectibles and enhances the overall user experience.
    
-   <img src="./images/nftDisplay.png" alt="Notifications" width="700" height="500">
+   <img src="./images/nftDisplay.png" alt="Notifications" width="800" height="500">
    
 ## Conclusion
 W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets. We believe that our submission meets and exceeds the requirements of the bounty challenge, and we look forward to your evaluation.
