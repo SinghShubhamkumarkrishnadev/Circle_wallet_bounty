@@ -38,3 +38,5 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
    
 ## Conclusion
 W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets.
+
+### The main components of our application is kept in the "main/java
