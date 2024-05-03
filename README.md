@@ -40,5 +40,6 @@ Welcome to W3 Wallet, an innovative cryptocurrency wallet application developed 
 W3 Wallet represents a significant advancement in cryptocurrency wallet applications, offering users a secure, convenient, and feature-rich platform for managing their digital assets.
 
 ### The major components of our application is kept in the "main" folder.
-**For the java and kotlin files please refer "main/java/com/circle/w3s/sample/wallet" .**
+
+**For the java and kotlin files please refer "main/java/com/circle/w3s/sample/wallet".**
 ** For layout and drawable files please refer "main/res/layout" and "main/res/drawable"**
